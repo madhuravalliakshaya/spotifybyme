@@ -65,3 +65,5 @@ npm install
 
 3️⃣ Start the App
 npm start
+DEMO image
+<img width="1898" height="870" alt="Screenshot 2025-12-19 195702" src="https://github.com/user-attachments/assets/165764be-d60e-400f-b976-aaf68f8a4a7a" />
